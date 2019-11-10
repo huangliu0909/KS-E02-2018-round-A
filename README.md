@@ -8,3 +8,6 @@ Draw one item at random. All items have an equal probability.
 You may redip(return the item and draw again) a maximum of K times.  
 Play optimally to maximize the value of the item you may end the game with.   
 What is the expected value of that item?  
+
+Problem C: Scrambled Words  
+Given a dictionary, can you count the number of words in dictionary that appear as a substring in a given string at least once, in either their scrambled or original forms.
